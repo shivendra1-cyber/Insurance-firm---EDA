@@ -1,4 +1,4 @@
-# 🏥 Insurance Firm Data Exploratory Data Analysis (EDA)
+# 🏥 Insurance Firm  Exploratory Data Analysis (EDA)
 
 <img width="471" alt="image" src="https://github.com/shivendra1-cyber/Insurance-firm---EDA/assets/68283342/db68f7a6-98ea-426a-a83f-6dbd0e3d5fd3">
 
